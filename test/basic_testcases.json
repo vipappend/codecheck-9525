@@ -1,0 +1,202 @@
+[
+  {
+    "title": "n = 1",
+    "input": 1,
+    "output": 1
+  },
+  {
+    "title": "n = 2",
+    "input": 2,
+    "output": 1
+  },
+  {
+    "title": "n = 3",
+    "input": 3,
+    "output": 2
+  },
+  {
+    "title": "n = 4",
+    "input": 4,
+    "output": 3
+  },
+  {
+    "title": "n = 5",
+    "input": 5,
+    "output": 5
+  },
+  {
+    "title": "n = 6",
+    "input": 6,
+    "output": 8
+  },
+  {
+    "title": "n = 7",
+    "input": 7,
+    "output": 13
+  },
+  {
+    "title": "n = 8",
+    "input": 8,
+    "output": 21
+  },
+  {
+    "title": "n = 9",
+    "input": 9,
+    "output": 34
+  },
+  {
+    "title": "n = 10",
+    "input": 10,
+    "output": 55
+  },
+  {
+    "title": "n = 11",
+    "input": 11,
+    "output": 89
+  },
+  {
+    "title": "n = 12",
+    "input": 12,
+    "output": 144
+  },
+  {
+    "title": "n = 13",
+    "input": 13,
+    "output": 233
+  },
+  {
+    "title": "n = 14",
+    "input": 14,
+    "output": 377
+  },
+  {
+    "title": "n = 15",
+    "input": 15,
+    "output": 610
+  },
+  {
+    "title": "n = 16",
+    "input": 16,
+    "output": 987
+  },
+  {
+    "title": "n = 17",
+    "input": 17,
+    "output": 1597
+  },
+  {
+    "title": "n = 18",
+    "input": 18,
+    "output": 2584
+  },
+  {
+    "title": "n = 19",
+    "input": 19,
+    "output": 4181
+  },
+  {
+    "title": "n = 20",
+    "input": 20,
+    "output": 6765
+  },
+  {
+    "title": "n = 21",
+    "input": 21,
+    "output": 10946
+  },
+  {
+    "title": "n = 22",
+    "input": 22,
+    "output": 17711
+  },
+  {
+    "title": "n = 23",
+    "input": 23,
+    "output": 28657
+  },
+  {
+    "title": "n = 24",
+    "input": 24,
+    "output": 46368
+  },
+  {
+    "title": "n = 25",
+    "input": 25,
+    "output": 75025
+  },
+  {
+    "title": "n = 26",
+    "input": 26,
+    "output": 121393
+  },
+  {
+    "title": "n = 27",
+    "input": 27,
+    "output": 196418
+  },
+  {
+    "title": "n = 28",
+    "input": 28,
+    "output": 317811
+  },
+  {
+    "title": "n = 29",
+    "input": 29,
+    "output": 514229
+  },
+  {
+    "title": "n = 30",
+    "input": 30,
+    "output": 832040
+  },
+  {
+    "title": "n = 31",
+    "input": 31,
+    "output": 1346269
+  },
+  {
+    "title": "n = 32",
+    "input": 32,
+    "output": 2178309
+  },
+  {
+    "title": "n = 33",
+    "input": 33,
+    "output": 3524578
+  },
+  {
+    "title": "n = 34",
+    "input": 34,
+    "output": 5702887
+  },
+  {
+    "title": "n = 35",
+    "input": 35,
+    "output": 9227465
+  },
+  {
+    "title": "n = 36",
+    "input": 36,
+    "output": 14930352
+  },
+  {
+    "title": "n = 37",
+    "input": 37,
+    "output": 24157817
+  },
+  {
+    "title": "n = 38",
+    "input": 38,
+    "output": 39088169
+  },
+  {
+    "title": "n = 39",
+    "input": 39,
+    "output": 63245986
+  },
+  {
+    "title": "n = 40",
+    "input": 40,
+    "output": 102334155
+  }
+]
